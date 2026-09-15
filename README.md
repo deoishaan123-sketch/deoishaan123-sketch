@@ -60,9 +60,9 @@ I'm building my foundation step by step — from programming and databases to ma
 <img src="https://skillicons.dev/icons?i=python,cpp,c" />
 </p>
 
-### DATABASE
+### DATABASE / QUERYING
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### TOOLS
