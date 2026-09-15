@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ishaan
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+%7C+Python+%7C+SQL;Building+projects+and+learning+every+day;Turning+ideas+into+working+solutions;Future+Machine+Learning+Engineer+%F0%9F%A4%96" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+Explorer+%7C+Python+%7C+SQL;Building+projects+and+learning+every+day;Turning+ideas+into+working+solutions;Future+Machine+Learning+Engineer+%F0%9F%A4%96" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=deoishaan123-sketch&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile views" />
 
@@ -13,10 +13,9 @@
 ## 🧠 About Me
 
 - 🎓 Engineering student focused on **Artificial Intelligence & Machine Learning**
-- 🐍 Building a strong foundation in **Python, SQL, data analysis and problem solving**
-- 🚀 Learning by **building lots of projects** and experimenting with new ideas
-- 📚 Currently sharpening my skills in **SQL, DSA, Python and AI/ML**
-- 💡 Interested in **Machine Learning, AI, Data Science and Software Development**
+- 🐍 Building a strong foundation in **Python, SQL, DSA and problem solving**
+- 🚀 Learning by **building lots of projects** and turning concepts into practical work
+- 📚 Exploring the foundations needed for **AI/ML, research and software development**
 - 🤝 Open to learning, collaborating and building meaningful projects
 
 ---
@@ -26,13 +25,10 @@
 <div align="center">
 
 ### Languages & Core
-<p><img src="https://skillicons.dev/icons?i=python,cpp,c,java,sql" /></p>
-
-### Data & AI/ML
-<p><img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn,tensorflow" /></p>
+<p><img src="https://skillicons.dev/icons?i=python,cpp,c,sql" /></p>
 
 ### Tools & Development
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,jupyter" /></p>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" /></p>
 
 </div>
 
@@ -70,15 +66,17 @@
 
 ---
 
-## 📈 My Learning Journey
+## 📈 Learning Journey
 
 ```text
 Python ────────────────████████████████░░──  Building
 SQL ───────────────────██████████████░░░░──  Advancing
 DSA ───────────────────██████████░░░░░░░░──  Practicing
-Data Analysis ─────────██████████░░░░░░░░──  Exploring
-Machine Learning ──────██████░░░░░░░░░░░░──  Growing
-AI ────────────────────█████░░░░░░░░░░░░░──  Exploring
+Mathematics ───────────████████░░░░░░░░░░──  Building foundations
+Data Analysis ─────────██████░░░░░░░░░░░░──  Next phase
+Machine Learning ──────████░░░░░░░░░░░░░░──  Upcoming
+Deep Learning ─────────██░░░░░░░░░░░░░░░░──  Upcoming
+Research ──────────────██░░░░░░░░░░░░░░░░──  Upcoming
 ```
 
 ---
@@ -86,11 +84,41 @@ AI ────────────────────█████�
 ## 🎯 Current Focus
 
 ```python
-focus = {
-    "learning": ["Python", "SQL", "DSA", "Data Analysis", "AI/ML"],
-    "building": "projects that turn learning into practical skills",
-    "goal": "become a strong AI/ML engineer",
-    "mindset": "learn → build → fail → improve → repeat"
+roadmap = {
+    "foundation": [
+        "SQL: JOINs, subqueries, CTEs, CASE, window functions",
+        "DSA: arrays, strings, hashing, linked lists, stacks, queues",
+        "Git & GitHub"
+    ],
+    "next": [
+        "Linear Algebra",
+        "Probability & Statistics",
+        "NumPy, Pandas, Matplotlib, Seaborn",
+        "Exploratory Data Analysis"
+    ],
+    "machine_learning": [
+        "Classical Machine Learning",
+        "Model experimentation",
+        "End-to-end ML projects"
+    ],
+    "deep_learning": [
+        "PyTorch",
+        "CNNs",
+        "Deep Learning projects"
+    ],
+    "research": [
+        "Read and analyze research papers",
+        "Maintain a research notebook",
+        "Connect with professors / mentors",
+        "Build research and internship experience"
+    ],
+    "long_term": [
+        "Choose an AI/ML specialization",
+        "Build a strong project portfolio",
+        "Gain research / internship experience",
+        "Prepare for competitive top-university opportunities"
+    ],
+    "mindset": "learn → build → experiment → document → improve → repeat"
 }
 ```
 
@@ -100,6 +128,7 @@ focus = {
 
 <div align="center">
 <a href="https://github.com/deoishaan123-sketch"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ishaan-deo-5b915b390"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ---
